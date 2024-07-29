@@ -10,4 +10,4 @@ gen
 
 # Added by cargo
 
-/target
+target
